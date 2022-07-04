@@ -1,0 +1,129 @@
+.logo {
+    width: 300px;
+}
+.navbar {
+    background-color: black;
+}
+#navo {
+    color: grey;
+}
+.card-body {
+    background-color: black;
+}   
+
+footer {
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+}
+.link-pie{
+    color: black;
+    text-decoration: none;
+}
+body {
+    background-image: url("imagenes/2.jpg");
+}
+
+.form-contact {
+    background: #FFF;
+    width: 400px;
+    margin: auto;
+    box-shadow: 7px 13px 37px rgba(0, 0, 0, .8);
+  }
+  
+  header {
+    width: 100%;
+    background: grey;
+    overflow: hidden;
+    color: white;
+  }
+  
+  header span {
+    font-size: 100px;
+    display: block;
+    text-align: center;
+    padding: 2.5rem;
+  }
+  
+  .contact {
+    padding: .8rem;
+    overflow: hidden;
+    color: gray;
+  }
+  
+  .contact label, .contact input, .contact textarea {
+    display: block;
+    width: 100%;
+    margin-bottom: 7px;   
+  }
+  
+  .contact label {
+    font-weight: 700;
+  }
+  
+  .contact input:not([type='submit']), .contact textarea {
+    border: none;
+    border-bottom: 2px solid grey;
+    margin-bottom: 10px;
+    font-size: 20px;
+    outline: none;
+    color: gray;
+  }
+  
+  .contact textarea {
+    min-height: 100px;
+  }
+  
+  input[type='submit'] {
+    padding: 10px;
+    background:black;
+    border: none;
+    color: white;
+    font-size: 20px;
+    /* pointer-events: none; */
+    cursor: pointer;
+  
+  }
+
+#boton-f {
+    background-color: #4267B2;
+    border: #4267B2;
+    
+}
+#boton-f a {
+    color: #FFF;
+}
+#boton-f a:hover{
+    color: #898F9C;
+}
+#boton-i {
+   
+    background-color: #C13584;
+    border: #C13584;
+}
+
+#boton-i a {
+    color: #FCAF45;
+}
+#boton-i a:hover {
+    color: #405DE6;
+}
+#boton-l {
+    background-color: #0A66C2;
+}
+#boton-l a{
+    color: #ffffff;
+}
+#boton-l a:hover {
+    color: #898F9C;
+}
+#boton-y {
+    background-color: #FF0000;
+    border: #FF0000;
+}
+#boton-y a {
+    color: #FFF;
+}
+#boton-y a:hover{
+    color: #282828;
+}
